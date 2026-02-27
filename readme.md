@@ -376,6 +376,4 @@ This Notification Prioritization Engine takes a **layered, pragmatic approach**:
 
 The architecture is horizontally scalable, ops-friendly (rules without code deploys), and balances user experience (less noise) with reliability (nothing important is lost). It's built to evolve — as user behavior data accumulates, the AI scoring module can be continuously improved without changing the core decision flow.
 
----
 
-*Solution by: [Your Name] | Tools used: Claude AI (for solution structuring and documentation), manual design for architecture and data model*
